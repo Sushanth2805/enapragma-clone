@@ -1,0 +1,5 @@
+{
+  "name": "Ena Pragma Clone",
+  "description": "A high-fidelity recreation of the Ena Pragma landing page using React, Tailwind CSS, and TypeScript. Features a pixel-perfect responsive design, custom SVG charts, and interactive components.",
+  "requestFramePermissions": []
+}
