@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Briefcase, Users, Phone, MessageSquare, Zap, HelpCircle } from 'lucide-react';
+import { Mail, Briefcase, Phone, MessageSquare, Zap } from 'lucide-react';
 
 export const Audience: React.FC = () => {
   return (
